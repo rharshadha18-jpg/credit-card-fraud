@@ -5,7 +5,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.4-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> **Author:** Puja Hansitha · B.Tech CSE (2029)
+> **Author:** Harshadha · B.Tech CSE (2029)
 
 ---
 
